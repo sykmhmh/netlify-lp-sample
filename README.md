@@ -1,0 +1,2 @@
+# netlify-lp-sample
+netlifyのサンプルプロジェクト
